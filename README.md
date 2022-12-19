@@ -18,12 +18,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shakshi73008938" target="blank"><img align="center" src="![github (3)](https://user-images.githubusercontent.com/106874906/208506008-ffc16082-6d1d-4e36-a35d-06cc6e60b2a7.png)" alt="shakshi73008938" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shakshi-kumari-prajapati-a01872203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakshi-kumari-prajapati-a01872203" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shakshikumari215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shakshikumari215" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/crazyone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crazyone" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Techs:</h3>
 <h4 align="left">programming languages</h4>
