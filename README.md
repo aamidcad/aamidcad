@@ -12,7 +12,6 @@
 - 👨‍💻 Have a look over My Resume link [Portfolio Website](https://bit.ly/3DcgflC)<br>
 - 📝 Connect me in your list on [linkedin]([https://www.linkedin.com/in/shakshi-kumari-prajapati-a01872203/](https://in.linkedin.com/in/mohammed-aamid-ai046)) <br>
 - 💬 Ask me about anything, **I am happy to help, only if the ball is in my court!**
-- 📫 Regular at solving problems & reading articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shakshikumari215) <br>
 - ⚡ Fun fact: **At The time of Stress coding, I use to be in half sleeping mode**
 
 
